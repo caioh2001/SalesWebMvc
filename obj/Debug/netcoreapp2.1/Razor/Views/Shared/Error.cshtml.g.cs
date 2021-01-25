@@ -14,12 +14,12 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #line 1 "C:\Users\caioh\source\repos\SalesWebMvc\Views\_ViewImports.cshtml"
-using SalesWebMvc;
+using SalesWebMvc.Models.ViewModels;
 
 #line default
 #line hidden
 #line 2 "C:\Users\caioh\source\repos\SalesWebMvc\Views\_ViewImports.cshtml"
-using SalesWebMvc.Models;
+using SalesWebMvc.Models.ViewModels;
 
 #line default
 #line hidden
